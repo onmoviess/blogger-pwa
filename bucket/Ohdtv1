@@ -1,0 +1,299 @@
+{
+
+  "version": "1.0",
+
+  "id": "/",
+
+  "name": "OHDTV",
+
+  "short_name": "ohdtv",
+
+  "description": "free streaming platform for movie and sports Live ",
+
+  "start_url": "https://www.dktechnozone.in/",
+
+  "dir": "auto",
+
+  "lang": "en-US",
+
+  "orientation": "any",
+
+  "display": "standalone",
+
+  "prefer_related_applications": false,
+
+  "background_color": "#000",
+
+  "theme_color": "#000",
+
+  "icons": [
+
+    {
+
+      "src": "https://i.ibb.co/CpcJgfr8/20250705-214335.png",
+
+      "sizes": "16x16",
+
+      "type": "image/png"
+
+    },
+
+    {
+
+      "src": "https://i.ibb.co/BHxcJyfP/20250705-214352.png",
+
+      "sizes": "32x32",
+
+      "type": "image/png",
+
+      "purpose": "any maskable"
+
+    },
+
+    {
+
+      "src": "https://i.ibb.co/VcGc0NP0/20250705-214408.png",
+
+      "sizes": "48x48",
+
+      "type": "image/png",
+
+      "purpose": "any maskable"
+
+    },
+
+    {
+
+      "src": "https://i.ibb.co/J1Pxk4V/20250705-214422.png",
+
+      "sizes": "72x72",
+
+      "type": "image/png",
+
+      "purpose": "any maskable"
+
+    },
+
+    {
+
+      "src": "https://i.ibb.co/h5h4sMp/20250705-214435.png",
+
+      "sizes": "57x57",
+
+      "type": "image/png"
+
+    },
+
+    {
+
+      "src": "https://i.ibb.co/1tpQcLtX/20250705-214538.png",
+
+      "sizes": "76x76",
+
+      "type": "image/png"
+
+    },
+
+    {
+
+      "src": "https://i.ibb.co/CsNwxDMs/20250705-214551.png",
+
+      "sizes": "70x70",
+
+      "type": "image/png"
+
+    },
+
+    {
+
+      "src": "https://i.ibb.co/5gqnStbr/20250705-214622.png",
+
+      "sizes": "310x310",
+
+      "type": "image/png"
+
+    },
+
+    {
+
+      "src": "https://i.ibb.co/ycCNHfqk/20250705-214640.png",
+
+      "sizes": "144x144",
+
+      "type": "image/png",
+
+      "purpose": "any maskable"
+
+    },
+
+    {
+
+      "src": "https://i.ibb.co/ccYqVtJ3/20250705-214654.png",
+
+      "sizes": "152x152",
+
+      "type": "image/png"
+
+    },
+
+    {
+
+      "src": "https://i.ibb.co/c5BP5Dx/20250705-214707.png",
+
+      "sizes": "180x180",
+
+      "type": "image/png"
+
+    },
+
+    {
+
+      "src": "https://i.ibb.co/zh3j8hzm/20250705-214720.png",
+
+      "sizes": "192x192",
+
+      "type": "image/png",
+
+      "purpose": "any maskable"
+
+    },
+
+    {
+
+      "src": "https://i.ibb.co/zh3j8hzm/20250705-214720.png",
+
+      "sizes": "114x114",
+
+      "type": "image/png"
+
+    },
+
+    {
+
+      "src": "https://i.ibb.co/ycCNHfqk/20250705-214640.png",
+
+      "sizes": "144x144",
+
+      "type": "image/png"
+
+    }
+
+  ],
+
+  "screenshots": [
+
+    {
+
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO8t39VSRc6Muh2dJNhaKacuzmtg2u7raDmCymQ5mlwp_Oy8AqQzzuRQIz1erkrI8ACD1ELR2BiiGwdBS0A3dd4GxnskJec3-7WLmBKYzUx3JAsbn5UvywROHt3m34qSvENeEQ1g-XPHu0S_1WiYkb7JSKT1lg86co4MV7hBQuchLv1TOZdTZsJKMB4tfs/s1280/20250705_233721.jpg",
+
+      "type": "image/png",
+
+      "sizes": "540x720",
+
+      "form_factor": "narrow"
+
+    },
+
+    {
+
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwsGQh9O381YAG59lbCfCPYQd6tsB8xEM-4YuPgWjeU8Sdqp1CidmjKLJmU8dnRNKSfOt-HwOxxq9LaU9vfOYn0MPuGc7Z82dRBL0wIn2eUZHA91BkZf5Lz1JD0psxM8TMnHZ5NgG3ov761ngaJQu6YEkE42tXR1RLtufcZwwhT4GRNg7jlaq1s0IpCFcr/s1280/20250705_233826.jpg",
+
+      "type": "image/png",
+
+      "sizes": "540x720",
+
+      "form_factor": "narrow"
+
+    },
+
+    {
+
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqdOk6kWIqiivIqE_Sjy8Rz-g_JcYFp75AxdtYsQZgMLaJNlDVWqQbV7WvhoH5jI3X3_IrNDs8lJL5SltyxkveqxW0gzLl7V1Tjjq5uq8VAhxZetYGXLszx4Tks7QkDCeu4pTp1ZvNes3dlgHIMcMjEnaqHzoW4gfEFtbvpDrTtcB6DOFO-NHrSftUhSzd/s1280/20250705_233907.jpg",
+
+      "type": "image/png",
+
+      "sizes": "540x720",
+
+      "form_factor": "narrow"
+
+    },
+
+    {
+
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwICAjJnwsWvSIm6IAnoWmkDWpIzeTyAdliPFK9nvG43RNoV1neBo5g5s6trmudVN1KpMfuUxgML1L2tDNm6UsFjHLxjF-MUUCqAkiy-oP-qHa86X_Cco_de-cFmJNZg9R-nUwffrGDCqvNEkKoICyNkkjJVW7wSnDsqY-ej4dwGZGIgMz822RE7MXPRK-/s1280/20250705_233952.jpg",
+
+      "type": "image/png",
+
+      "sizes": "540x720",
+
+      "form_factor": "narrow"
+
+    },
+
+    {
+
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglLCN7AjJBWwUc3lkEHW-Y8CwRqLjDfr5hkH2Vt6Z0soUlAwqjC_o-gJomBRdNUghWl-zUQxOAGWU56X7HeYLXDLJQUDFiITFTxTV81Zwu6bthILasvCJ6CQQpDSWramYFdEkwNUpBYKptZJ5Pgb34G_Vs7WQoxpiswx-3imj1Gky-xdaLEH03H4SZI6PF/s1280/20250705_234635.jpg",
+
+      "type": "image/png",
+
+      "sizes": "540x720",
+
+      "form_factor": "narrow"
+
+    }
+
+  ],
+
+  "shortcuts": [
+
+    {
+
+      "name": "Tools",
+
+      "short_name": "Tools",
+
+      "description": "My Shortcut 1 description goes here...",
+
+      "url": "https://www.dktechnozone.in/p/tools.html/",
+
+      "icons": [
+
+        {
+
+          "src": "https://i.ibb.co/hRzc9cLP/Screenshot-2025-07-05-20-50-48-451-edit-com-android-chrome.jpg",
+
+          "sizes": "96x96"
+
+        }
+
+      ]
+
+    },
+
+    {
+
+      "name": "Join us",
+
+      "short_name": "@dktechnozone",
+
+      "description": "My Shortcut 2 description goes here...",
+
+      "url": "https://telegram.me/dktechnozone",
+
+      "icons": [
+
+        {
+
+          "src": "https://i.ibb.co/sdr4Fmh8/1751705022095.png",
+
+          "sizes": "96x96"
+
+        }
+
+      ]
+
+    }
+
+  ]
+
+}
