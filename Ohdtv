@@ -1,0 +1,141 @@
+{
+  "version": "1.0",
+  "name": "Multi moviez",
+  "short_name": "Multi moviez",
+  "description": "Install Multi moviez App and browse our website faster",
+  "dir": "auto",
+  "lang": "en-US",
+  "orientation": "any",
+  "start_url": "/?utm_source=homescreen",
+  "scope": "/",
+  "display": "standalone",
+  "prefer_related_applications": false,
+  "background_color": "#34003d",
+  "theme_color": "#34003d",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/0R4mnHcX/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/TD3LWz7d/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/1JZNNyxL/android-icon-36x36.png",
+      "sizes": "36x36",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/G4SyTyPG/android-icon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/bRqDfyZv/apple-icon-57x57.png",
+      "sizes": "57x57",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/zV8xRJmH/apple-icon-60x60.png",
+      "sizes": "60x60",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/PZG04nr4/android-icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/pvTBLXtR/apple-icon-76x76.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/nqWMQpHv/android-icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/zW7Vb1gX/apple-icon-114x114.png",
+      "sizes": "114x114",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/Y4D3NtvJ/apple-icon-120x120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/jkyzksSK/android-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/svQqkW4b/apple-icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/22rJ5XY/apple-icon-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/fztzbSf0/android-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJrnzrsn8wvLiCwRRJwozT7KEKzfz9DHJFD-0QNrohTqC-ERYgzaXz4LqjD3MgrLPh2YVp8EbjOThmTpjYlmxIKxVbnISEM4TmapQaEIls1yeT_BQRfuhfwDotw-b0Y4_kj3kmemWbqQwdXguVJjzW9JFNVhiiVA-HiPs0BrFc-dXvego2C6HldrAG8voE/s1600/Screenshot_2025-06-24-22-48-12-85_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+      {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqbSEs77nnXyoWlJv96Fd4LoVf0Pn-seazRlT-apqzOlL_WC2sRxZsN3o0g57cLMtDACyioiKrDW8zdaqgKwBqr21oNqVlGw6mPX2ywATzja52gUk2FmeCpXi3BFO41vUv8aJY7WKa4NPlL8lZx_2JIr1FFlXe0HSsAHeygTleYpxD2PzYYVSskDc3eTp6/s1600/Screenshot_2025-06-24-22-46-33-26_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
+      "type": "image/png",
+      "sizes": "540x720"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiesXMDLgO8pg3pip7OnZYbJrDmCHgN9Bp9g8yJ5JQvInI8zbZGT3bjLKGnpC69pAXmOhdKiHBgG5fRkijM23yH9JCf1O4WlkwNu9lABAWYf_SP1eX_yPOEaTlSAAn63hyqG_YtQz0fgqJvdTAJyE_r85PkAfQM-hrE3euTdsLw_9g9B47FxdNS4d7EPFJW/s1600/Screenshot_2025-06-24-22-47-50-22_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
+      "type": "image/png",
+      "sizes": "540x720"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "blogger template",
+      "short_name": "Drama",
+      "description": "Quick access to blogger template",
+      "url": "/search/label/Drama?utm_source=homescreen",
+      "icons": [
+        {
+          "src": "https://i.ibb.co/22rJ5XY/apple-icon-180x180.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Prayer Points",
+      "short_name": "Action",
+      "description": "Quick access to action movies",
+      "url": "/search/label/Action?utm_source=homescreen",
+      "icons": [
+        {
+          "src": "https://i.ibb.co/22rJ5XY/apple-icon-180x180.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
